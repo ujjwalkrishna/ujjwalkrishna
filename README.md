@@ -30,7 +30,7 @@ const krishnaujjwal = {
                         company: "Agilus Work SOlutions"
                     }
                    ],
-  note: "I have worked with 20+ clients as an independent freelancer    maintaining 5 star rating. I have strong hold on backend development, Data Structures & Algorithm. Beginner in blockchain development"
+  note: "I have worked with 20+ clients as an independent freelancer maintaining 5 star rating. I have strong hold on backend development, Data Structures & Algorithm. Beginner in blockchain development"
 }
 ```
 
